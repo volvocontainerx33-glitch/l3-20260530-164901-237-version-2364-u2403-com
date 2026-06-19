@@ -1,8 +1,0 @@
-{
-  "site_title": "高清电影片库-精选电影合集-分类内容持续更新",
-  "logo": "高清电影片库",
-  "movie_count": 2000,
-  "detail_page_count": 2000,
-  "category_count": 12,
-  "cover_rule": "cover_index = ((N - 1) % 150) + 1; images are referenced from top-level 1.jpg to 150.jpg and are not included in the ZIP."
-}
