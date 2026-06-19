@@ -1,0 +1,9 @@
+{
+  "name": "高清亚洲电影-热门电影片库-高清影片在线观看",
+  "short_name": "高清亚洲电影",
+  "start_url": "./index.html",
+  "display": "standalone",
+  "background_color": "#0a0e1a",
+  "theme_color": "#0a0e1a",
+  "lang": "zh-CN"
+}
